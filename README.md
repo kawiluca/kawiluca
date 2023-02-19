@@ -7,7 +7,7 @@
 
 ### Hey 👋
 
-Etudiant en troisième année de licence informatique, j'aime développer des projets pour mettre en pratique des notions vu durant mes cours (chiffrement avec XOR, code correcteur, IHM...) et je développe des projets personnels qui me tiennes à coeur ou juste pour le fun. Je suis motivé par la sécurité et la cryptologie. Fan inconditionnel de python et des systèmes fonctionnant avec le kernel Unix, une grande partie de mes projets sont réalisés dans ce langage pour ces systèmes... mais promis j'aime bien Java! A nos claviers et créons le monde de demain.
+Etudiant en troisième année de licence informatique, j'aime développer des projets pour mettre en pratique des notions vu durant mes cours (chiffrement avec XOR, code correcteur, IHM...) et je développe des projets personnels qui me tiennent à coeur ou juste pour le fun. Je suis motivé par la sécurité et la cryptologie. Fan inconditionnel de python et des systèmes fonctionnant avec le kernel Unix, une grande partie de mes projets sont réalisés dans ce langage pour ces systèmes... mais promis j'aime bien Java! A nos claviers et créons le monde de demain.
 
 <div align="center"><p>En sécurité:</p><h5><i>Se faire battre est excusable, se faire surprendre est impardonnable</i></h5></div>
 
