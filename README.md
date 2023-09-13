@@ -11,7 +11,7 @@ Etudiant en troisième année de licence informatique, j'aime développer des pr
 
 <div align="center"><p>En sécurité:</p><h5><i>Se faire battre est excusable, se faire surprendre est impardonnable</i></h5></div>
 
-<h6 align="center"><a href="http://jeremy-dron.fr" target="_blank">$man Jeremod-Dev</a></h6>
+<h6 align="center"><a href="https://jeremydron.000webhostapp.com/" target="_blank">$man Jeremod-Dev</a></h6>
 
 <table align="center">
   <tr>
