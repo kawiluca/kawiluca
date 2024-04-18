@@ -28,10 +28,10 @@
 <table align="center">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeremod-Dev" alt="Top Langage"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawiluca" alt="Top Langage"/>
     </td>
     <td>
-      <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Jeremod-Dev&show_icons=true" alt="Jeremod-Dev" />
+      <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kawiluca&show_icons=true" alt="kawiluca" />
     </td>
   </tr>
 </table>
