@@ -22,9 +22,6 @@
 <img src="https://raw.githubusercontent.com/secdev/scapy/master/doc/scapy/graphics/scapy_logo.png" alt="Scapy" height="40" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Tmux_logo.svg/608px-Tmux_logo.svg.png" alt="Tmux" height="20" />
 
-
-<h6 align="center"><a href="#" target="_blank">$man Jeremod-Dev</a></h6>
-
 <table align="center">
   <tr>
     <td>
