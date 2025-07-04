@@ -16,8 +16,8 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" alt="Sqlite"   height="40" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" alt="VSCode"   height="40" />
 <img src="https://www.svgrepo.com/show/374163/verilog.svg" alt="Verilog programming language"   height="40" />
-<img src="https://torresjrjr.com/archive/2022-05-02-welcome-harelang/harriet.png" alt="Harelang programming language"   height="40" />
-<img src="https://repository-images.githubusercontent.com/545114802/4ab51785-5e5b-4750-a523-250ce2421eb9" alt="Lex Syntax analyser" height="40" />
+<img src="https://harelang.org/mascot.png" alt="Harelang programming language"   height="40" />
+<img src="https://repository-images.githubusercontent.com/545114802/4ab51785-5e5b-4750-a523-250ce2421eb9?_sm_au_=iVV0kFqVN5SsnLtMcLpsvK618Vf61" alt="Lex Syntax analyser" height="40" />
 <img src="https://pic.onlinewebfonts.com/thumbnails/icons_459559.svg" alt="Computer network" height="40" />
 <img src="https://raw.githubusercontent.com/secdev/scapy/master/doc/scapy/graphics/scapy_logo.png" alt="Scapy" height="40" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Tmux_logo.svg/608px-Tmux_logo.svg.png" alt="Tmux" height="20" />
